@@ -22,10 +22,7 @@ An application to find nearby medicines using  Java,MySQL,JSP, Servlet,JDBC,HTML
   - [Prerequisites](#prerequisites)
   - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
- 
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Description
 
