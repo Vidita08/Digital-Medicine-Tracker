@@ -1,4 +1,4 @@
- # Ayurvedic Wellness: Medicine and Remedy Guide. 
+ # Digital Medicine Tracker. 
 
 An application to find nearby medicines using  Java,MySQL,JSP, Servlet,JDBC,HTML,CSS,JavaScript and XAMPP.
 
