@@ -73,7 +73,6 @@ git clone https://github.com/jayeshsonavane2025/Digital_Medicine_Tracker.git
 
 2. Set up the database using XAMPP.
  
-
 3. Open the project in your Eclipse IDE.
  
 
@@ -83,23 +82,5 @@ git clone https://github.com/jayeshsonavane2025/Digital_Medicine_Tracker.git
 2. Search for the desired medicine.
 3. View a list of nearby pharmacies and medical facilities with the medicine.
 
-
- 
-
- 
-
- 
-
-## Contributing
-
-Contributions are welcome! To contribute to the project, please follow the guidelines outlined in the [CONTRIBUTING](CONTRIBUTING.md) file.
-
- 
-
-## Contact
-
-Feel free to contact me at mailto:jayeshsonavane2025@gmail.com for any questions, feedback, or collaboration opportunities.
-
----
 
  
